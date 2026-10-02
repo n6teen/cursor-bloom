@@ -1,0 +1,6 @@
+.build/
+preview.png
+Support/icon-1024.png
+.swiftpm/
+*.xcuserstate
+.DS_Store
