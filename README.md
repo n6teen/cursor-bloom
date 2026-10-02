@@ -18,7 +18,3 @@ open ~/Applications/Bloom.app
 ```
 
 Bloom appears in the menu bar, not the Dock. The first time you open the panel it reads Cursor’s local session on your Mac and loads the current billing cycle.
-
-## License
-
-You may view this source, build Bloom, use it, and share unmodified copies. You may not change the code, the artwork, or the name, and you may not ship a modified version. See [LICENSE](LICENSE).
